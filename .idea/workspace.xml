@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19031fc9-ac4b-457d-b7c2-2cc68cfffc13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="293Gk5Wp4ULBxU3btHEXj4492so" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19031fc9-ac4b-457d-b7c2-2cc68cfffc13" name="Default Changelist" comment="" />
+      <created>1652334496098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652334496098</updated>
+      <workItem from="1675171161392" duration="1077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="163" key="FileChooserDialogImpl" timestamp="1675177755381">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="163" key="FileChooserDialogImpl/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1675177755381" />
+    <state x="573" y="319" key="Github.ShareDialog" timestamp="1675176777191">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="319" key="Github.ShareDialog/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1675176777191" />
+    <state x="535" y="124" key="Github.UntrackedFilesDialog" timestamp="1675176781359">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="535" y="124" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1675176781359" />
+    <state x="197" y="52" key="SettingsEditor" timestamp="1675177593170">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="197" y="52" key="SettingsEditor/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1675177593170" />
+    <state x="-1465" y="194" key="SettingsEditor/0.0.1680.1002/-1680.129.1680.1050@-1680.129.1680.1050" timestamp="1675172297936" />
+    <state x="489" y="108" key="svn.repositoryBrowser" timestamp="1675176541935">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="489" y="108" key="svn.repositoryBrowser/0.0.1536.834/1920.0.2560.1409@0.0.1536.834" timestamp="1675176541935" />
+  </component>
+</project>
